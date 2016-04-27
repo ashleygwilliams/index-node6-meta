@@ -1,0 +1,24 @@
+{
+  "name": "index-node6-meta",
+  "version": "1.0.0",
+  "description": "testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/index-node6-meta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/index-node6-meta/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/index-node6-meta#readme",
+  "dependencies": {
+    "index-node6": "^2.0.0",
+    "index-node62": "^1.0.0"
+  }
+}

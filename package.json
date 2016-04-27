@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ashleygwilliams/index-node6-meta#readme",
   "dependencies": {
     "index-node6": "^2.0.0",
-    "index-node62": "^1.0.0"
+    "index-node62": "^1.0.0",
+    "test-test-test2": "^3.0.0"
   }
 }
